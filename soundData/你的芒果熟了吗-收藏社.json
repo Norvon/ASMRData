@@ -1,132 +1,131 @@
 {
-    "albumImageUrl": "//static.missevan.com/coversmini/201808/05/80cdc29e56d87d44bc02afb690e4b7d0151034.jpg",
+    "albumImageUrl": "http://static.missevan.com/coversmini/201808/05/80cdc29e56d87d44bc02afb690e4b7d0151034.jpg",
     "albumName": "\u4f60\u7684\u8292\u679c\u719f\u4e86\u5417-\u6536\u85cf\u793e",
-    "albumUserName": "\u69ff\u4e4b\u6728\u697d",
     "soundList": [
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201810/21/7ccafaac1556bd2b28e687e41fc2ae11192326.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u4f60\u4e0e\u5973\u5deb\u7684\u7f8e\u5999\u4e00\u591c...",
-            "soundUrl": "https://www.missevan.com/sound/1098992"
+            "soundUrl": "https://www.missevan.comMP3/201810/21/44e894da0ce342c1c87a9ff6e357467f112328.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201808/05/695e27ce711bf28d1b0c83cbf251e6b9080550.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u59b9\u59b9\uff0c\u59d0\u59d0\u7684\u529e\u516c\u5ba4\u597d\u73a9\u5417\uff1f\uff08\u7cbe\u5206\u4e00\u4eba\u53cc\u5f79\uff09",
-            "soundUrl": "https://www.missevan.com/sound/1049553"
+            "soundUrl": "https://www.missevan.comMP3/201808/05/8c8150649d8e84b4d47143c8df30071f080555.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201806/04/77b2241d29b58fee1a5fad1c32632c11134131.png",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u7ed9\u9ad8\u8003\u7684\u5f1f\u5f1f\u7684\u54c4\u7761",
-            "soundUrl": "https://www.missevan.com/sound/1007762"
+            "soundUrl": "https://www.missevan.comMP3/201806/04/133018be2c5b10a1db20c43738c4949e134135.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201805/05/d1c0e0ae69c000d2e7511ba32f72cd8a143902.jpg",
             "soundName": "\u3010\u50ac\u7720\u3011\u5480\u56bc\u97f3\uff08\u9505\u5df4+\u85af\u7247+\u6851\u845a+\u679c\u51bb\uff09\u65e0\u4eba\u58f0",
-            "soundUrl": "https://www.missevan.com/sound/980594"
+            "soundUrl": "https://www.missevan.comMP3/201805/05/c4963bb9550e0ab137227df32b6258c4143904.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201804/30/6959a0100cc891122e2808477fb2fb37194307.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u549a\u549a\u549a \u610f\u5916\u6536\u5230\u4e00\u53ea\u5974\u96b6\u5c0f\u5976\u72d7",
-            "soundUrl": "https://www.missevan.com/sound/969289"
+            "soundUrl": "https://www.missevan.comMP3/201804/30/801ab9b523b5ff2403bf6a3963e3f534114308.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201804/14/c9d4f63cb563f8ede153f27b49aee264054754.jpg",
             "soundName": "\u3010\u50ac\u7720\u3011\u6cb9\u8033\u6309\u6469\uff08\u7cbe\u6cb9+\u4e73\u6db2+\u65e0\u4eba\u58f0\uff09",
-            "soundUrl": "https://www.missevan.com/sound/940300"
+            "soundUrl": "https://www.missevan.comMP3/201804/14/1c90db265f68b472fef2fd94a6508d6b054755.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201803/30/5fc8f0d2c7e7a8cc03758676030112d3153655.jpg",
             "soundName": "\u3010\u50ac\u7720\u3011\u9165\u723d\u7684\u6d17\u5934\u6309\u6469\uff08\u6ce1\u6cab+\u6293\u6320+\u65e0\u4eba\u58f0\uff09",
-            "soundUrl": "https://www.missevan.com/sound/917521"
+            "soundUrl": "https://www.missevan.comMP3/201803/30/fc3d05c72283bf7f5ec7aeec2e9f5af0153657.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201803/25/2c78c3fe2b777e3aacee9dc1c1c12178072544.jpg",
             "soundName": "\u3010\u50ac\u7720\u3011\u5feb\u901f\u6572\u51fb\u97f3\uff08\u65e0\u4eba\u58f0\uff09",
-            "soundUrl": "https://www.missevan.com/sound/902820"
+            "soundUrl": "https://www.missevan.comMP3/201803/25/681c8f3273cc7b566176d4d0d045556d072546.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201802/08/6e95157712ee1786170d28cbdaf5018c124004.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u3010\u8c03\u6559S\u5411\u3011\u6765\u4eab\u53d7\u75db\u82e6\u7684\u6b22\u6109\u5427~",
-            "soundUrl": "https://www.missevan.com/sound/826174"
+            "soundUrl": "https://www.missevan.comMP3/201802/08/b981a7fefed900e9bb95404ee1b8e0b0044007.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201712/24/e3d292262fd50cc4ad724163094ecbe8141021.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u6a31\u82b1\u5deb\u5973\u7ec8\u7ae0",
-            "soundUrl": "https://www.missevan.com/sound/733572"
+            "soundUrl": "https://www.missevan.comMP3/201712/24/1de7eaf5dbf7cccf309a1696f7091940141023.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201712/10/ffa5ae72f92b7c94586b97fa546d2b69134646.jpg",
             "soundName": "\u3010\u50ac\u7720\u30113Dio\u8033\u6735\u6309\u6469\uff08\u65e0\u4eba\u58f0\uff09",
-            "soundUrl": "https://www.missevan.com/sound/690613"
+            "soundUrl": "https://www.missevan.comMP3/201712/10/3f44cdc69d067e2d7ca499550c01f50d134648.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201711/25/6fe648d80993ddbc807566381fe53fef171011.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u4e56~\u6765\u59d0\u59d0\u6000\u91cc\u5662~\uff08\u59d0\u5f1f\u7bc7\uff09",
-            "soundUrl": "https://www.missevan.com/sound/659388"
+            "soundUrl": "https://www.missevan.comMP3/201711/25/3d3e502654b2ab0ade4e9abc958f7556091013.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201711/18/4bbae87772d522807cabcbf8062cbe68113912.jpg",
             "soundName": "\u3010\u50ac\u7720\u3011\u8d85\u8212\u670d\u7684\u6c34\u6676\u6ce5\uff08\u65e0\u4eba\u58f0\uff09",
-            "soundUrl": "https://www.missevan.com/sound/649416"
+            "soundUrl": "https://www.missevan.comMP3/201711/18/24e22486f1c126fc214948ab99ea9999113913.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201711/05/545dbe9082e0408b9a6bbeb2987ff8b8200300.png",
             "soundName": "\u3010\u50ac\u7720\u3011U\u578b\u6795\u7684\u58f0\u97f3\uff08\u9897\u7c92\u611f+\u65e0\u4eba\u58f0\uff09",
-            "soundUrl": "https://www.missevan.com/sound/623421"
+            "soundUrl": "https://www.missevan.comMP3/201711/05/8212057215bebf3a57caef7cae39a253200303.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201710/24/f4d37776fa47a56c7cddee22e2da35b9223740.jpg",
             "soundName": "\u3010\u50ac\u7720\u30113dio\u65b0\u9ea6\u6d4b\u8bd5+\u95f2\u626f\uff08\u6572\u8033\u6735 \u68c9\u7b7e\u7b49\uff09",
-            "soundUrl": "https://www.missevan.com/sound/599454"
+            "soundUrl": "https://www.missevan.comMP3/201710/24/b2a58590184f658e1953c40c65953112223741.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201710/08/aeb6f653251d21de5dca32e1159392de164541.png",
             "soundName": "\u3010\u4e2d\u6587\u50ac\u7720\u3011\u4f60\u597d\uff0c\u4f60\u70b9\u7684\u6309\u6469\u6280\u5e08\u5230\u4e86\u3002",
-            "soundUrl": "https://www.missevan.com/sound/581334"
+            "soundUrl": "https://www.missevan.comMP3/201710/08/7f244dba9acc1cbee793e9dce5aa45fc164544.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201709/10/b6b2be808526d4c377affeaa1e38b6b6161942.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u6a31\u82b1\u5973\u5deb\u7684\u544a\u767d",
-            "soundUrl": "https://www.missevan.com/sound/554952"
+            "soundUrl": "https://www.missevan.comMP3/201709/10/e2d1260a6f63cc0cb07823d6938d79a6161944.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201708/31/8628412bfccdb6b54d42d95df389971e173839.png",
             "soundName": "\u3010\u50ac\u7720\u3011\u732a\u5934\u5feb\u7761\u89c9\u54af~",
-            "soundUrl": "https://www.missevan.com/sound/543469"
+            "soundUrl": "https://www.missevan.comMP3/201708/31/ecae2f766afd54427a32d4d5306a2343173841.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201708/16/afd486a083a9fd3cda80f3f683d3f080214858.jpg",
             "soundName": "\u3010\u50ac\u7720\u3011\u8ba9\u4f60\u7684\u5934\u76ae\u53d1\u9ebb",
-            "soundUrl": "https://www.missevan.com/sound/526721"
+            "soundUrl": "https://www.missevan.comMP3/201708/16/ffa722d585075651def513e778aa05fb214859.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201706/26/fd7ffef8856a5fc882827f042b99e022201509.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u6a31\u82b1\u5deb\u5973\u7684\u54c4\u7761",
-            "soundUrl": "https://www.missevan.com/sound/451151"
+            "soundUrl": "https://www.missevan.comMP3/201706/26/33a8175bc4ca1f33f2a7c3f292ef8ad3201510.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201706/23/5a11e30ac359d10e95a20f0a9e0c382a210145.jpg",
             "soundName": "\u3010\u4e2d\u6587\u50ac\u7720\u3011\u4e13\u5c5e\u4f60\u7684\u6e29\u6696\u5c0f\u4eba\u59bb",
-            "soundUrl": "https://www.missevan.com/sound/444507"
+            "soundUrl": "https://www.missevan.comMP3/201706/23/2ceec179d6430bba833e04bdbcc481f1210146.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201706/09/5fdbaafeae360e6e814d667453a73ea7200244.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u6df1\u591c\u5973\u53cb\u7535\u8bdd\u91cc\u7684\u6d53\u6d53\u60c5\u610f",
-            "soundUrl": "https://www.missevan.com/sound/396787"
+            "soundUrl": "https://www.missevan.comMP3/201706/09/b58db1b8b6ca4106dae5b1c03b3e0f06200246.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201706/03/70b2a23aa5684a8b2f731a79a25744af162806.png",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u6e38\u56ed\u60ca\u68a6 \u6027\u51b7\u6de1\u97f3",
-            "soundUrl": "https://www.missevan.com/sound/384021"
+            "soundUrl": "https://www.missevan.comMP3/201706/03/b00e6e0370984a031b382ef1264c4e67162808.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201705/29/5a729f28e3bf1d940fb4ea4fb2b800eb190920.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u50ac\u7720\u3011\u534a\u591c\u722c\u4e0a\u54e5\u54e5\u7684\u5e8a",
-            "soundUrl": "https://www.missevan.com/sound/370216"
+            "soundUrl": "https://www.missevan.comMP3/201705/29/d23f6a64db693fd7a984c71a0fd5d859190921.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         },
         {
-            "soundImageUrl": "https://static.missevan.com/coversmini/201705/16/9a3cb3e72e3d6fd2740c680f42095944194026.jpg",
             "soundName": "\u3010\u4e2d\u6587\u97f3\u58f0\u3011\u841d\u8389\u732b\u5a18\u4e0e\u4eba\u7c7b\u7537\u5b69\u4e0d\u5f97\u4e0d\u8bf4\u7684\u6545\u4e8b",
-            "soundUrl": "https://www.missevan.com/sound/333970"
+            "soundUrl": "https://www.missevan.comMP3/201705/16/1fcbea9055a32c499bad003ed6008173194027.mp3",
+            "soundSinger": "\u5c0f\u8292\u679c\u719f\u4e86"
         }
     ]
 }

@@ -1,6 +1,4 @@
-import article
-
-data = [
+[
     {
         "url": "https://www.leasmr.com/tr/as913",
         "name": "[\u4e2d\u6587-\u97f3\u58f0]\u5c0f\u8292\u679c\u963f\uff08\u5373\u65f6\u66f4\u65b0\uff09",
@@ -82,12 +80,3 @@ data = [
         "articleUrl": "https://www.missevan.com/albumiframe/147579?autoplay=true&playlist=true"
     }
 ]
-
-
-
-if __name__ == "__main__":
-    for item in data:
-        url = item["articleUrl"]
-        if ("www.missevan.com" in url):
-            article.main(url)
-    pass
