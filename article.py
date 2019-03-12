@@ -25,25 +25,25 @@ def getSoundList(url):
         soundSinger = soundA[2].text
 
         # obj["soundImageUrl"] = "https:" + soundImageUrl
-        obj["soundName"] = soundName
-        obj["soundUrl"] = "https://www.missevan.com" + soundUrl
-        obj["soundSinger"] = soundSinger
+        obj["sound_name"] = soundName
+        obj["sound_url"] = "https://www.missevan.com" + soundUrl
+        obj["sound_singer"] = soundSinger
         soundList.append(obj)
     return soundList
 
 
 def getData(url):
     album = {}
-    album["albumImageUrl"] = getHtmlNodes(
+    album["album_image_url"] = getHtmlNodes(
         url, '//*[@id="player"]/div[1]/img')[0].get("src")
 
-    album["albumName"] = getHtmlNodes(
+    album["album_name"] = getHtmlNodes(
         url, '//*[@id="player"]/div[2]/div[1]/marquee/a')[0].text
 
     # album["albumUserName"] = getHtmlNodes(
     #     url, '//*[@id="explore_right"]/div[1]/div[2]/div/a')[0].text
 
-    album["soundList"] = getSoundList(url)
+    album["sound_list"] = getSoundList(url)
     return album
 
 # 写入文件
@@ -56,7 +56,7 @@ def writeToFile(data, fileName):
 
 def main(url): 
     data = getData(url)
-    fileName = "./soundData/" + data["albumName"] + '.json'
+    fileName = "./soundData/" + data["album_name"] + '.json'
     writeToFile(data, fileName)
     
 # 南征
