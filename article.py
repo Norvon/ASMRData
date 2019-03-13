@@ -26,7 +26,7 @@ def getSoundList(url):
 
         # obj["soundImageUrl"] = "https:" + soundImageUrl
         obj["voice_name"] = soundName
-        obj["voice_url"] = "https://www.missevan.com" + soundUrl
+        obj["voice_url"] = "https://static.missevan.com/" + soundUrl
         obj["voice_singer"] = soundSinger
         soundList.append(obj)
     return soundList
